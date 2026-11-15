@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shukur Sukurov 👋
 
-<!--
-**Sukurov/Sukurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Frontend Developer
 
-Here are some ideas to get you started:
+💻 HTML | CSS | JavaScript | React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Web Design and Software Development graduate interested in frontend development and modern web technologies.
+
+### 🛠️ Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
