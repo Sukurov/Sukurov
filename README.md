@@ -1,4 +1,4 @@
-# Hi, I'm Shukur Sukurov 👋
+# Hi, I'm Shukur Shukurov 👋
 
 ### Junior Frontend Developer
 
