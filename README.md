@@ -20,4 +20,12 @@ Web Design and Software Development graduate focused on frontend development. Sk
 <img src="https://skillicons.dev/icons?i=react" width="50">
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" width="50">
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="50">
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50">
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="50">
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="50">
 </div>
