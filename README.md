@@ -10,4 +10,4 @@ Web Design and Software Development graduate focused on frontend development. Sk
 
 ### 🛠️ Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,vscode" />
